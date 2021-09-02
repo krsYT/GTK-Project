@@ -1,7 +1,7 @@
 # GTK-Project
 Sample Project that I'm trying to build on YouTube (Live)
 
-**Streams discussing this:**
+## Streams discussing this:
 
 S.No. | Date | Title | Limk |
 --- | --- | --- | --- |
